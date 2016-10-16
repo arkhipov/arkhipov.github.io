@@ -74,7 +74,7 @@ p {
 a {
   color: $link-color;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
     color: darken($link-color,20);
   }
