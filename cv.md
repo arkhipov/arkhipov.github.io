@@ -6,9 +6,17 @@ permalink: /cv/
 
 ## Employment
 
+### Senior Software Engineer
+
+December 2016–Present, [Yandex LLC (Moscow, Russia)](http://yandex.com/){:.external}
+
+### External Consultant
+
+December 2016–Present, [Irkutsk Diagnostic Center (Irkutsk, Russia)](http://idc.ru/){:.external}
+
 ### Technical Lead/Software Architect
 
-2014 July–Present, [Irkutsk Diagnostic Center (Irkutsk, Russia)](http://idc.ru/){:.external}
+July 2014–December 2016, [Irkutsk Diagnostic Center (Irkutsk, Russia)](http://idc.ru/){:.external}
 
 Skills used: Java EE (Wildfly, Clustering and HA, Hibernate Envers, Hibernate Search), Java FX (ReactFX), APT, XSLT (Saxon, Xalan), XSL-FO (Apache FOP), PostgreSQL.
 
