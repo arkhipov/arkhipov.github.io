@@ -10,6 +10,8 @@ permalink: /cv/
 
 December 2016–Present, [Yandex LLC (Moscow, Russia)](http://yandex.com/){:.external}
 
+Skills used: Java Core, Real-Time Stream Processing, Spring, Zookeeper, MongoDB, Python.
+
 ### External Consultant
 
 December 2016–Present, [Irkutsk Diagnostic Center (Irkutsk, Russia)](http://idc.ru/){:.external}
@@ -20,13 +22,13 @@ July 2014–December 2016, [Irkutsk Diagnostic Center (Irkutsk, Russia)](http://
 
 Skills used: Java EE (Wildfly, Clustering and HA, Hibernate Envers, Hibernate Search), Java FX (ReactFX), APT, XSLT (Saxon, Xalan), XSL-FO (Apache FOP), PostgreSQL.
 
-I am responsible for leading three teams of 10 software developers, reviewing and coding critical parts of the system, discussing requirements, training the personnel and interviewing candidates. The system I have been working on is a complex distributed ERP for a large healthcare enterprise written mainly in Java EE and running on CentOS, Wildfly Application Server, Mondrian BI and PostgreSQL with web-based and Java FX backends powered by REST, JSON and WebSockets.
+I was responsible for leading three teams of 10 software developers, reviewing and coding critical parts of the system, discussing requirements, training the personnel and interviewing candidates. The system I had been working on was a complex distributed ERP for a large healthcare enterprise written mainly in Java EE and running on CentOS, Wildfly Application Server, Mondrian BI and PostgreSQL with web-based and Java FX backends powered by REST, JSON and WebSockets.
 
-My work in this position began with the replacement of the legacy document rendering system with templates in XSL-FO to generate medical documents in PDF using Apache FOP and Saxon. It has provided much flexibility on the presentation layer and has allowed end users to customize the views themselves. The main issues that we faced related to performance and scalability with large documents. It also offered an opportunity to brush up on my computer typography skills.
+My work in this position began with the replacement of the legacy document rendering system with templates in XSL-FO to generate medical documents in PDF using Apache FOP and Saxon. It provided much flexibility on the presentation layer and allowed end users to customize the views themselves. The main issues that we faced related to performance and scalability with large documents. It also offered an opportunity to brush up on my computer typography skills.
 
-Other projects were mostly related to upgrading legacy UI using Java FX and ReactFX, refactoring of the existing domain model and integration with third-party services, including integration with the online payment solution of Sberbank via SOAP. It allows customers to purchase medical services using credit or debit cards online.
+Other projects were mostly related to upgrading legacy UI using Java FX and ReactFX, refactoring of the existing domain model and integration with third-party services, including integration with the online payment solution of Sberbank via SOAP. It allowed customers to purchase medical services using credit or debit cards online.
 
-While previously my experience was largely technical, this role has allowed me to the opportunity to test both my interpersonal and technical skills. I have found it both a challenging and rewarding experience.
+While previously my experience was largely technical, this role allowed me to the opportunity to test both my interpersonal and technical skills. I found it both a challenging and rewarding experience.
 
 ### Senior Software Engineer
 
@@ -99,6 +101,7 @@ Selected Courses:
 * [Oracle Certified Associate, Java SE 8 Programmer (May 2015)](https://www.youracclaim.com/badges/ae0a7356-1c6a-4226-9269-55cee0ca9bf9/public_url/){:.external}
 * [Oracle Certified Professional, Java SE 8 Programmer (June 2015)](https://www.youracclaim.com/badges/3da1a4cf-c1d2-4744-a213-95d83207923e/public_url/){:.external}
 * [Oracle Certified Expert, EE 6 Java Persistence Developer (March 2016)](https://www.youracclaim.com/badges/9093f4d9-9c17-4413-a121-aa0de34115a7/public_url/){:.external}
+* [Oracle Certified Expert, EE 6 Java EE 6 Enterprise JavaBeans Developer (June 2017)](https://www.youracclaim.com/badges/60f14510-62bf-4af8-84c1-45cc686e12cb/public_url){:.external}
 
 ## Publications
 
