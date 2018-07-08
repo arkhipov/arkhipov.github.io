@@ -6,9 +6,13 @@ permalink: /cv/
 
 ## Employment
 
+### Head of Service, Yandex.Cloud IAM (Identity and Access Management)
+
+June 2018–Present, [Yandex LLC (Moscow, Russia)](http://yandex.com/){:.external}
+
 ### Senior Software Engineer
 
-December 2016–Present, [Yandex LLC (Moscow, Russia)](http://yandex.com/){:.external}
+December 2016–June 2018, [Yandex LLC (Moscow, Russia)](http://yandex.com/){:.external}
 
 Skills used: Java Core, Real-Time Stream Processing, Spring, Zookeeper, MongoDB, Python.
 
@@ -16,7 +20,7 @@ Skills used: Java Core, Real-Time Stream Processing, Spring, Zookeeper, MongoDB,
 
 December 2016–Present, [Irkutsk Diagnostic Center (Irkutsk, Russia)](http://idc.ru/){:.external}
 
-### Technical Lead/Software Architect
+### Chief Technology Officer
 
 July 2014–December 2016, [Irkutsk Diagnostic Center (Irkutsk, Russia)](http://idc.ru/){:.external}
 
